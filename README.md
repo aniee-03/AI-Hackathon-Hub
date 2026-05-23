@@ -36,6 +36,6 @@
 
   This project was created as a prototype platform for managing hackathons, innovation events, and student tech communities. 
 
-View your app in AI Studio: https://ai.studio/apps/drive/1uA9ixM_PwKoTfBgD2-ZdIECZTIvdDS6u
+View DEMO in AI Studio: https://ai.studio/apps/drive/1uA9ixM_PwKoTfBgD2-ZdIECZTIvdDS6u
 
 
