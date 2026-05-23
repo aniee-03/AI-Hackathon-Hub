@@ -2,40 +2,19 @@
 <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
 
-## AI Hackathon Hub 
+# Run and deploy your AI Studio app
 
-  AI Hackathon Hub is an AI-powered web platform prototype designed for hackathons, tech events, registrations, team participation, and project showcases with a modern responsive interface.
+This contains everything you need to run your app locally.
 
-  ## Features
+View your app in AI Studio: https://ai.studio/apps/f07f1bbc-b069-46d7-8e5e-79a4b2b051c1
 
- Hackathon event listings
- 
- event categories and participation
- 
- Team collaboration
- 
- modern responsive UI
- 
- AI-powered recommendations
- 
- community-focused platform
+## Run Locally
 
- ## Technologies Used
- 
-  HTML
-  
-  CSS
-  
-  JavaScript
-  
-  Bootstrap
-  
-  Google AI studio
-
-## Purpose
-
-  This project was created as a prototype platform for managing hackathons, innovation events, and student tech communities. 
-
-View DEMO in AI Studio: https://ai.studio/apps/drive/1uA9ixM_PwKoTfBgD2-ZdIECZTIvdDS6u
+**Prerequisites:**  Node.js
 
 
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
