@@ -2,19 +2,42 @@
 <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
 
-# Run and deploy your AI Studio app
+# AI Hackathon Hub
 
-This contains everything you need to run your app locally.
+ AI Hackathon Hub is an AI-powered platform built for students and developers to explore hackathons, tech clubs, competitions, participation activities, and innovation events through a modern responsive interface.
 
-View your app in AI Studio: https://ai.studio/apps/f07f1bbc-b069-46d7-8e5e-79a4b2b051c1
+ ## Features
 
-## Run Locally
+  - Explore upcoming hackathons and competitions
 
-**Prerequisites:**  Node.js
+  - Tech club and community information
 
+  - Participation tracking section
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+  - Events archive and past  event records
+
+  - Modern responsive user interface
+
+  - Student innovation and collaboration platform
+
+  - Fast and user-friendly navigation
+
+## Technologies used
+
+   HTML5
+
+   CSS3
+
+   JavaScipt
+
+   Gemini API
+ 
+   Google AI Studio
+
+## purpose
+
+  This projecct was developed as a prototype innovation platform to help students discover event participation, and engage with tech communities.
+
+## Live Demo
+
+ https://ai-hackathonhubapp.vercel.app
